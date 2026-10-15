@@ -47,7 +47,7 @@ Either way, run it a few times before you change the agent to get a baseline. Af
 
 ## Learn more
 
-- Blog post: coming soon
+- Blog post: [Building a golden dataset for an agent](https://builder.aws.com/content/3KKyJzfmOm5CkkLWaOdt1NyeK0U/building-a-golden-dataset-for-an-agent)
 
 ## License
 
